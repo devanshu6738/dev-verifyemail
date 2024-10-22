@@ -1,0 +1,11 @@
+// const generate = require('./index');
+
+//  generate(6, 'gmail', 'devanshu9167@gmail.com', 'app Password', '2devanshugupta@gmail.com', 'portfolio')
+//    .then(otp => {
+//     console.log(otp); 
+//    })
+//    .catch(error => {
+//      console.error('Error:', error); 
+//    });
+
+  <Create a Password on your email account>

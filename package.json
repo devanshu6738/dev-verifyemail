@@ -1,0 +1,22 @@
+{
+  "name": "verifyotpemail",
+  "version": "1.0.0",
+  "description": "an npm package to send a otp in email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devanshu6738/dev-verifyemail.git"
+  },
+  "author": "Devanshu Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devanshu6738/dev-verifyemail/issues"
+  },
+  "homepage": "https://github.com/devanshu6738/dev-verifyemail#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.15"
+  }
+}
